@@ -1,0 +1,11 @@
+{
+  "name": "IGbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaycheez/IGbot.git",
+  "author": "<kevin.m.chau@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
